@@ -38,4 +38,4 @@ NOTA: Se o Job mostrar um WARN de Interrupt, basta ignorar. Existe um bug no Had
 
 Qualquer outra dúvida, informação ou sugestão, fique a vontade para entrar em contato.
 
-marcelo@smarques.com
+Leonardo__Correia@hotmail.com
